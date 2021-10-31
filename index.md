@@ -1,4 +1,19 @@
-## Portfolio
+## Education
+
+---
+
+[Double Master's in Computational Mechanics]](http://example.com/)
+
+2020 - 2021
+Master's in Numerical Methods in Engineering - UPC Barcelona
+GPA = 8.58
+
+2021 - 2022
+Master's in COMMAS - University of Stuttgart
+
+---
+
+## Work experience
 
 ---
 
