@@ -4,7 +4,7 @@
 
 ### Basque Centre for Applied Mathematics (BCAM) - Spain
 
-[=Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
+[Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
