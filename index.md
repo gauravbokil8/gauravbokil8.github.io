@@ -9,7 +9,7 @@
 GPA = 8.58<br></p>
 
 <p style="margin-left: 40px"><a href = "https://www.commas.uni-stuttgart.de/">Master's in COMMAS - University of Stuttgart</a><br>
-2021 - 2022<br></p>	
+2021 - Present<br></p>	
 
 ---
 
@@ -17,10 +17,16 @@ GPA = 8.58<br></p>
 
 ---
 
+### Research assistant - IKTD (University of Stuttgart)
+[Using Deep Learning to improve friction coupling]
+Oct 2021- Present<br>
+
+---
+
 ### Masters Intern - Basque Centre for Applied Mathematics
-Jan 2020 - Aug 2021<br>
 
 [Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
+Jan 2020 - Aug 2021<br>
 <img src="images/flatplatense2.png"/>
 
 ---
