@@ -18,14 +18,14 @@ GPA = 8.58<br></p>
 ---
 
 ### Research assistant - IKTD (University of Stuttgart)
-[Using Deep Learning to improve friction coupling]
+[Using Deep Learning to improve friction coupling](/sample_page)<br>
 Oct 2021- Present<br>
 
 ---
 
 ### Masters Intern - Basque Centre for Applied Mathematics
 
-[Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
+[Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)<br>
 Jan 2020 - Aug 2021<br>
 <img src="images/flatplatense2.png"/>
 
@@ -33,7 +33,8 @@ Jan 2020 - Aug 2021<br>
 
 ### Advanced Trainee - Altair Engineering
 
-[Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)
+[Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)<br>
+Feb 2019 - Aug 2020<br>
 <img src="images/excavator1.png"/>
 
 [Project 1 Title](http://example.com/)
