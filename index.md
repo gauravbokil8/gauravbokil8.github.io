@@ -2,14 +2,14 @@
 
 ---
 
-[Double Master's in Computational Mechanics]](http://example.com/)
+[Double Master's in Computational Mechanics](http://example.com/)
 
-2020 - 2021
-Master's in Numerical Methods in Engineering - UPC Barcelona
-GPA = 8.58
+2020 - 2021<br>
+Master's in Numerical Methods in Engineering - UPC Barcelona<br>
+GPA = 8.58<br><br>
 
-2021 - 2022
-Master's in COMMAS - University of Stuttgart
+2021 - 2022<br>
+Master's in COMMAS - University of Stuttgart<br>
 
 ---
 
