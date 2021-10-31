@@ -11,7 +11,7 @@
 ### Altair Engineering - India
 
 [Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)
-<img src="images/excavator.png?raw=true"/>
+<img src="images/excavator1.png"/>
 
 [Project 1 Title](http://example.com/)
 
