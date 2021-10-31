@@ -5,8 +5,9 @@
 ### Basque Centre for Applied Mathematics (BCAM) - Spain
 
 [Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/flatplatense2.png"/>
 
+---
 
 ### Altair Engineering - India
 
