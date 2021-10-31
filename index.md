@@ -1,3 +1,5 @@
+---
+
 ## Education
 
 ---
@@ -17,14 +19,15 @@ GPA = 8.58<br></p>
 
 ---
 
-### Basque Centre for Applied Mathematics (BCAM) - Spain
+### Intern at Basque Centre for Applied Mathematics (BCAM)
+### Jan 2020 - Aug 2021
 
 [Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
 <img src="images/flatplatense2.png"/>
 
 ---
 
-### Altair Engineering - India
+### Advanced Trainee - Altair Engineering
 
 [Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)
 <img src="images/excavator1.png"/>
