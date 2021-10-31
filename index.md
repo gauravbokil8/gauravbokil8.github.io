@@ -19,8 +19,8 @@ GPA = 8.58<br></p>
 
 ---
 
-### Intern at Basque Centre for Applied Mathematics (BCAM)
-### Jan 2020 - Aug 2021
+### Masters Intern - Basque Centre for Applied Mathematics
+Jan 2020 - Aug 2021<br>
 
 [Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
 <img src="images/flatplatense2.png"/>
