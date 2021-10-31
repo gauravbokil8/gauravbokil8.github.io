@@ -2,13 +2,13 @@
 
 ---
 
-### Basque Centre for Applied Mathematics (BCAM) 
+### Basque Centre for Applied Mathematics (BCAM) - Spain
 
-[Approximating PDEs (especially Navier-Stokes) using Physics Informed Neural Networks (PINNs)](/sample_page)
+[=Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
-### Altair Engineering
+### Altair Engineering - India
 
 [Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)
 <img src="images/excavator.png?raw=true"/>
