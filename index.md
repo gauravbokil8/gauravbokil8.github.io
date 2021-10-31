@@ -7,15 +7,10 @@
 [Approximating PDEs (especially Navier-Stokes) using Physics Informed Neural Networks (PINNs)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Altair Engineering
 
-[Development of multibody dynamics software - MotionView](/pdf/sample_presentation.pdf)
+[Development of multibody dynamics software - MotionView](/pdf/Project_summary.pdf)
 <img src="images/excavator.png?raw=true"/>
 
 [Project 1 Title](http://example.com/)
