@@ -6,7 +6,7 @@
 
 <p style="margin-left: 40px"><a href = "https://www.upc.edu/en/masters/numerical-methods-in-engineering">Master's in Numerical Methods in Engineering - UPC Barcelona</a><br>
 2020 - 2021<br>
-GPA = 8.58<br></p>
+GPA - 8.58<br></p>
 
 <p style="margin-left: 40px"><a href = "https://www.commas.uni-stuttgart.de/">Master's in COMMAS - University of Stuttgart</a><br>
 2021 - Present<br></p>	
