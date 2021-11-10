@@ -18,7 +18,7 @@ GPA - 8.58<br></p>
 ---
 
 ### Research assistant - IKTD (University of Stuttgart)
-[Using Deep Learning to improve shaft-hub friction coupling](/sample_page)<br>
+[Using Deep Learning to improve shaft-hub friction coupling](/pdf/BCAM.pdf)<br>
 Oct 2021- Present<br>
 
 ---
