@@ -18,14 +18,14 @@ GPA - 8.58<br></p>
 ---
 
 ### Research assistant - IKTD (University of Stuttgart)
-[Using Deep Learning to improve shaft-hub friction coupling](/pdf/BCAM.pdf)<br>
+[Using Deep Learning to improve shaft-hub friction coupling](/sample_page)<br>
 Oct 2021- Present<br>
 
 ---
 
 ### Masters Intern - Basque Centre for Applied Mathematics
 
-[Physics Informed Neural Networks (PINNs) for PDEs](/sample_page)<br>
+[Physics Informed Neural Networks (PINNs) for PDEs](/pdf/BCAM.pdf)<br>
 Jan 2020 - Aug 2021<br>
 <img src="images/flatplatense2.png"/>
 
